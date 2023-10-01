@@ -1,6 +1,11 @@
 [
   {
     "ImageSource": "https://media.discordapp.net/attachments/830742705281826816/1149848119882829854/ets2_20230909_003635_00.png",
+    "ModName": "test mod 2",
+    "DownloadURL": "https://sharemods.com/xrdep7uvhp9u/AnglesMorts.zip.html"
+  },
+  {
+    "ImageSource": "https://media.discordapp.net/attachments/830742705281826816/1149848119882829854/ets2_20230909_003635_00.png",
     "ModName": "test mod",
     "DownloadURL": "https://sharemods.com/xrdep7uvhp9u/AnglesMorts.zip.html"
   },
