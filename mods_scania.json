@@ -26,13 +26,9 @@
     },
     {
         "ImageSource": "https://i.imgur.com/ALby5qA.gif",
-        "ModName": "Scania 2016 - Animated Momiji EU",
-        "DownloadURL": "https://sharemods.com/hkxe21clfuvt/s16_momiji_eu.zip.html"
-    },
-    {
-        "ImageSource": "https://i.imgur.com/ALby5qA.gif",
-        "ModName": "Scania 2016 - Animated Momiji UK",
-        "DownloadURL": "https://sharemods.com/y6nigujs2xjb/s16_momiji_uk.zip.html"
+        "ModName": "Scania 2016 - Animated Momiji",
+        "DownloadURL_UK": "https://sharemods.com/y6nigujs2xjb/s16_momiji_uk.zip.html",
+        "DownloadURL_EU": "https://sharemods.com/hkxe21clfuvt/s16_momiji_eu.zip.html"
     },
     {
         "ImageSource": "https://imgur.com/fTbsi0T.png",
