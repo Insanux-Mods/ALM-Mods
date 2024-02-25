@@ -41,14 +41,10 @@
         "DownloadURL": "https://sharemods.com/8h3545jh5wwk/ALM_NG_lighted_old_scania_badge.zip.html"
     },
     {
-        "ImageSource": "https://i.imgur.com/cmcX5o5.jpeg",
-        "ModName": "Scania 2016 - Big GPS EU",
-        "DownloadURL": "https://sharemods.com/4u5i06kp715l/ScaniaS16-Big-GPS-EU.zip.html"
-    },
-    {
         "ImageSource": "https://i.imgur.com/Zk6DR2a.jpeg",
-        "ModName": "Scania 2016 - Big GPS UK",
-        "DownloadURL": "https://sharemods.com/4w6utei7qs7v/big_gps___40_2__41_.zip.html"
+        "ModName": "Scania 2016 - Big GPS",
+        "DownloadURL_UK": "https://sharemods.com/4w6utei7qs7v/big_gps___40_2__41_.zip.html",
+        "DownloadURL_EU": "https://sharemods.com/4u5i06kp715l/ScaniaS16-Big-GPS-EU.zip.html"
     },
     {
         "ImageSource": "https://i.imgur.com/Dka0gBX.jpeg",
@@ -71,14 +67,10 @@
         "DownloadURL": "https://sharemods.com/lb5z93uay1ps/ALM_NG_steps_truckcolor.zip.html"
     },
     {
-        "ImageSource": "https://i.imgur.com/Wl6AGTT.gif",
-        "ModName": "Scania 2016 - Ada Wong (Animated) UK",
-        "DownloadURL": "https://sharemods.com/rch8yzumakon/ScaniaS_AdaWong_UK.zip.html"
-    },
-    {
         "ImageSource": "https://i.imgur.com/BXZ2HLE.gif",
-        "ModName": "Scania 2016 - Ada Wong (Animated) EU",
-        "DownloadURL": "https://sharemods.com/6g3693ozyzoc/ScaniaS_AdaWong_EU.zip.html"
+        "ModName": "Scania 2016 - Ada Wong (Animated)",
+        "DownloadURL_UK": "https://sharemods.com/rch8yzumakon/ScaniaS_AdaWong_UK.zip.html",
+        "DownloadURL_EU": "https://sharemods.com/6g3693ozyzoc/ScaniaS_AdaWong_EU.zip.html"
     },
     {
         "ImageSource": "https://i.imgur.com/iPuXfBT.png",
