@@ -192,19 +192,15 @@
         "DownloadURL": "https://sharemods.com/pc9oat322rc5/blackdaf.zip.html"
     },
     {
-        "ImageSource": "https://i.imgur.com/HRk3d4J.jpeg",
-        "ModName": "Scania 2016 - Blue Interior EU",
-        "DownloadURL": "hhttps://sharemods.com/0rw1yqnnk3jb/blueintFIX.zip.html"
-    },
-    {
-        "ImageSource": "https://i.imgur.com/a2H4aww.jpeg",
-        "ModName": "Scania 2016 - Blue Interior UK",
-        "DownloadURL": "https://sharemods.com/j510csmgg4zk/ukblueintFIX.zip.html"
-    },
-    {
         "ImageSource": "https://i.imgur.com/GMRJhsf.jpeg",
         "ModName": "Scania 2016 - Brown interior EU",
         "DownloadURL": "https://sharemods.com/1f6x966bw2e4/Brown_int___40_2__41_.zip.html"
+    },
+    {
+        "ImageSource": "https://i.imgur.com/a2H4aww.jpeg"",
+        "ModName": "Scania 2016 - Blue Interior UK",
+        "DownloadURL_UK": "https://sharemods.com/j510csmgg4zk/ukblueintFIX.zip.html",
+        "DownloadURL_EU": "https://sharemods.com/0rw1yqnnk3jb/blueintFIX.zip.html"
     },
     {
         "ImageSource": "https://i.imgur.com/I6U9MQp.jpeg",
@@ -257,14 +253,10 @@
         "DownloadURL": "https://sharemods.com/3nt6m87tymic/MAN-Interior.rar.html"
     },
     {
-        "ImageSource": "https://i.imgur.com/foWSVYL.png",
-        "ModName": "Mercedes 2014 - Yellow/Black EU",
-        "DownloadURL": "https://sharemods.com/71f5e0qlz2u4/MercYBEU.rar.html"
-    },
-    {
         "ImageSource": "https://i.imgur.com/l8oYrbM.png",
         "ModName": "Mercedes 2014 - Yellow/Black UK",
-        "DownloadURL": "https://sharemods.com/hqlu9jn5wurx/MercYBUK.rar.html"
+        "DownloadURL_UK": "https://sharemods.com/hqlu9jn5wurx/MercYBUK.rar.html",
+        "DownloadURL_EU": "https://sharemods.com/71f5e0qlz2u4/MercYBEU.rar.html"
     },
     {
         "ImageSource": "https://i.imgur.com/pppEMNp.jpeg",
@@ -277,14 +269,10 @@
         "DownloadURL": "https://sharemods.com/glv0fknvgvm4/black_red_scania.zip.html"
     },
     {
-        "ImageSource": "https://i.imgur.com/VxDl2nW.jpeg",
-        "ModName": "Scania 2016 - Orange Interior EU",
-        "DownloadURL": "https://sharemods.com/j64708gp99hr/Orange_Yellow_Scania_EU.rar.html"
-    },
-    {
         "ImageSource": "https://i.imgur.com/TJ1MGon.jpeg",
-        "ModName": "Scania 2016 - Orange Interior UK",
-        "DownloadURL": "https://sharemods.com/t88h4u7l2hwp/Orange_Yellow_Scania_UK.rar.html"
+        "ModName": "Scania 2016 - Orange Interior",
+        "DownloadURL_UK": "https://sharemods.com/t88h4u7l2hwp/Orange_Yellow_Scania_UK.rar.html",
+        "DownloadURL_EU": "https://sharemods.com/j64708gp99hr/Orange_Yellow_Scania_EU.rar.html"
     },
     {
         "ImageSource": "https://i.imgur.com/qDFQ1F0.jpeg",
@@ -302,13 +290,9 @@
         "DownloadURL": "https://sharemods.com/661n2yq0w35d/scania_whitered_int.rar.html"
     },
     {
-        "ImageSource": "https://i.imgur.com/GguueET.png",
-        "ModName": "Scania 2016 - Neon Light EU",
-        "DownloadURL": "https://sharemods.com/x306gt9r502v/NeonEU.rar.html"
-    },
-    {
-        "ImageSource": "https://i.imgur.com/ruJ2KKS.png",
-        "ModName": "Scania 2016 - Neon Light UK",
-        "DownloadURL": "https://sharemods.com/vpzrigizkxj6/NeonUK.rar.html"
+        "ImageSource": "https://i.imgur.com/ilwl7bv.jpeg",
+        "ModName": "Scania 2016 - Neon Light",
+        "DownloadURL_UK": "https://sharemods.com/vpzrigizkxj6/NeonUK.rar.html",
+        "DownloadURL_EU": "https://sharemods.com/x306gt9r502v/NeonEU.rar.html"
     }
 ]
