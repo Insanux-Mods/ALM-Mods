@@ -21,8 +21,9 @@
     },
     {
         "ImageSource": "https://i.imgur.com/yszEtpf.png",
-        "ModName": "Scania 2016 - Angel Eyes w/ Blinker EU/UK",
-        "DownloadURL": "https://sharemods.com/v3vtau1mkvye/AFG_Sca2016_AngelEyes_Strip.zip.html"
+        "ModName": "Scania 2016 - Angel Eyes w/ Blinker",
+        "DownloadURL_UK": "https://sharemods.com/v3vtau1mkvye/AFG_Sca2016_AngelEyes_Strip.zip.html",
+        "DownloadURL_EU": "https://sharemods.com/v3vtau1mkvye/AFG_Sca2016_AngelEyes_Strip.zip.html"
     },
     {
         "ImageSource": "https://i.imgur.com/2nNdEX0.png",
