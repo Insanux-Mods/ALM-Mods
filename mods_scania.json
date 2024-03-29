@@ -565,23 +565,23 @@
     },
     {
         "ImageSource": "https://i.imgur.com/31zmGby.png",
-        "ModName": "Glowing Dash Table Red",
-        "DownloadURL": "https://sharemods.com/8a9xsbxkepno/red.zip.html"
-    },
-    {
-        "ImageSource": "https://i.imgur.com/5F7IuiE.png",
-        "ModName": "Scania 2016 Glowing Dash Table Orange EU",
-        "DownloadURL": "https://sharemods.com/qfxd1bp45xpj/orange.zip.html"
+        "ModName": "Scania 2016 - Glowing Dash Table Red",
+        "DownloadURL_EU": "https://sharemods.com/8a9xsbxkepno/red.zip.html"
     },
     {
         "ImageSource": "https://i.imgur.com/31zmGby.png",
-        "ModName": "Scania 2016 - Glowing Dash Table Green EU",
-        "DownloadURL": "https://sharemods.com/3awgfo31hyyu/green.zip.html"
+        "ModName": "Scania 2016 - Glowing Dash Table Orange",
+        "DownloadURL_EU": "https://sharemods.com/qfxd1bp45xpj/orange.zip.html"
+    },
+    {
+        "ImageSource": "https://i.imgur.com/31zmGby.png",
+        "ModName": "Scania 2016 - Glowing Dash Table Green",
+        "DownloadURL_EU": "https://sharemods.com/3awgfo31hyyu/green.zip.html"
     },
     {
         "ImageSource": "https://i.imgur.com/cbPGfhR.jpeg",
-        "ModName": "Scania 2016 - Glowing Dash Table Blue EU",
-        "DownloadURL": "https://sharemods.com/7f8zs42nongb/blue.zip.html"
+        "ModName": "Scania 2016 - Glowing Dash Table Blue",
+        "DownloadURL_EU": "https://sharemods.com/7f8zs42nongb/blue.zip.html"
     },
     {
         "ImageSource": "https://i.imgur.com/beuyZGm.jpeg",
@@ -620,24 +620,21 @@
         "DownloadURL": "https://sharemods.com/htjq7tzwm9en/TT4.zip.html"
     },
     {
-        "ImageSource": "https://i.imgur.com/dZqT3dO.jpeg",
+        "ImageSource": "https://i.imgur.com/VfVKd1N.png",
         "ModName": "Scania 2016 - Pahaeng Plate + Front Mask Stripe",
-        "DownloadURL": "https://sharemods.com/8uk2flhcbviu/Pahaeng_and_Front_Mask_by_Mike.rar.html"
+        "DownloadURL_EU": "https://sharemods.com/8uk2flhcbviu/Pahaeng_and_Front_Mask_by_Mike.rar.html",
+        "DownloadURL_UK": "https://sharemods.com/8uk2flhcbviu/Pahaeng_and_Front_Mask_by_Mike.rar.html"
     },
     {
         "ImageSource": "https://i.imgur.com/yf63crI.jpeg",
-        "ModName": "Scania S/R09 - Dash Table Items EU",
-        "DownloadURL": "https://sharemods.com/uz4z349oklqz/scantab09.zip.html"
+        "ModName": "Scania S/R09 - Dash Table Items",
+        "DownloadURL_EU": "https://sharemods.com/uz4z349oklqz/scantab09.zip.html"
     },
     {
-        "ImageSource": "https://i.imgur.com/o5ERiOt.jpeg",
-        "ModName": "Scania 2016 - SUPER Dash Badge EU",
-        "DownloadURL": "https://sharemods.com/xqcsp6hw59v1/supereu.zip.html"
-    },
-    {
-        "ImageSource": "https://i.imgur.com/mFZIjnZ.jpeg",
-        "ModName": "Scania 2016 - SUPER Dash Badge UK",
-        "DownloadURL": "https://sharemods.com/7i2tbwgkt52w/super.zip.html"
+        "ImageSource": "https://i.imgur.com/WZO21ZW.png",
+        "ModName": "Scania 2016 - SUPER Dash Badge",
+        "DownloadURL_EU": "https://sharemods.com/xqcsp6hw59v1/supereu.zip.html",
+        "DownloadURL_UK": "https://sharemods.com/7i2tbwgkt52w/super.zip.htm"
     },
     {
         "ImageSource": "https://i.imgur.com/pRewUVs.png",
@@ -655,34 +652,22 @@
         "DownloadURL": "https://sharemods.com/426r8exfk7mz/scantabukfix.zip.html"
     },
     {
-        "ImageSource": "https://i.imgur.com/SqB1K1B.jpeg",
-        "ModName": "Scania 2016 - Water Bottle For Truck Console EU",
-        "DownloadURL": "https://sharemods.com/hlw1am12ny40/watereu.zip.html"
+        "ImageSource": "https://i.imgur.com/jsIRtja.png",
+        "ModName": "Scania 2016 - Water Bottle For Truck Console",
+        "DownloadURL_EU": "https://sharemods.com/hlw1am12ny40/watereu.zip.html",
+        "DownloadURL_UK": "https://sharemods.com/ayc3w4lihchk/water.zip.html"
     },
     {
-        "ImageSource": "https://i.imgur.com/4PGsCIU.jpeg",
-        "ModName": "Scania 2016 - Water Bottle For Truck Console UK",
-        "DownloadURL": "https://sharemods.com/ayc3w4lihchk/water.zip.html"
+        "ImageSource": "https://i.imgur.com/UFTfo6D.png",
+        "ModName": "Scania 2016 - Dash Glass Reflection",
+        "DownloadURL_EU": "https://sharemods.com/lsvbylhis2n2/refeu.zip.html",
+        "DownloadURL_UK": "https://sharemods.com/gl6oda4jqpdt/ref.zip.html"
     },
     {
-        "ImageSource": "https://i.imgur.com/M9AtnU2.jpeg",
-        "ModName": "Scania 2016 - Dash Glass Reflection EU",
-        "DownloadURL": "https://sharemods.com/lsvbylhis2n2/refeu.zip.html"
-    },
-    {
-        "ImageSource": "https://i.imgur.com/1yMM7kg.jpeg",
-        "ModName": "Scania 2016 - Dash Glass Reflection UK",
-        "DownloadURL": "https://sharemods.com/gl6oda4jqpdt/ref.zip.html"
-    },
-    {
-        "ImageSource": "https://i.imgur.com/bFZ21Mn.jpeg",
-        "ModName": "Scania 2016 - AC Enabled EU",
-        "DownloadURL": "https://sharemods.com/7s9wlamvu4ct/aceu.zip.html"
-    },
-    {
-        "ImageSource": "https://i.imgur.com/xnwUmlR.jpeg",
-        "ModName": "Scania 2016 - AC Enabled UK",
-        "DownloadURL": "https://sharemods.com/zyo481eh77vn/ac.zip.html"
+        "ImageSource": "https://i.imgur.com/enYSpcp.png",
+        "ModName": "Scania 2016 - AC Enabled",
+        "DownloadURL_EU": "https://sharemods.com/7s9wlamvu4ct/aceu.zip.html",
+        "DownloadURL_UK": "https://sharemods.com/zyo481eh77vn/ac.zip.html"
     },
     {
         "ImageSource": "https://i.imgur.com/lmVonOc.jpeg",
