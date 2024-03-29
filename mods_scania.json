@@ -609,14 +609,10 @@
         "DownloadURL": "https://sharemods.com/x1z93wjwzpt0/split.zip.html"
     },
     {
-        "ImageSource": "https://i.imgur.com/xbIg0Ky.png",
-        "ModName": "Scania 2016 - Apple Carplay With GPS UK",
-        "DownloadURL": "https://sharemods.com/xd1rfevyd2sm/carp.zip.html"
-    },
-    {
-        "ImageSource": "https://i.imgur.com/z8cCMBV.jpeg",
-        "ModName": "Scania 2016 - Apple Carplay With GPS EU",
-        "DownloadURL": "https://sharemods.com/ljf4wutt9mhs/carpeu.zip.html"
+        "ImageSource": "https://i.imgur.com/tzOFGjF.png",
+        "ModName": "Scania 2016 - Apple Carplay With GPS",
+        "DownloadURL_UK": "https://sharemods.com/xd1rfevyd2sm/carp.zip.html",
+        "DownloadURL_EU": "https://sharemods.com/ljf4wutt9mhs/carpeu.zip.html"
     },
     {
         "ImageSource": "https://i.imgur.com/hHxBpXO.jpeg",
@@ -699,14 +695,10 @@
         "DownloadURL": "https://sharemods.com/y87cb369i4wc/matphone.zip.html"
     },
     {
-        "ImageSource": "https://i.imgur.com/G6EjA7P.jpeg",
-        "ModName": "Scania 2016 - Garmin GPS EU",
-        "DownloadURL": "https://sharemods.com/o6j35btcugol/scangpseu___40_3__41_.zip.html"
-    },
-    {
-        "ImageSource": "https://i.imgur.com/8YcjyeP.jpeg",
-        "ModName": "Scania 2016 - Garmin GPS UK",
-        "DownloadURL": "https://sharemods.com/zh2vnj9e55ir/scangps.zip.html"
+        "ImageSource": "https://i.imgur.com/cugSQeR.png",
+        "ModName": "Scania 2016 - Garmin GPS",
+        "DownloadURL_UK": "https://sharemods.com/zh2vnj9e55ir/scangps.zip.html",
+        "DownloadURL_EU": "https://sharemods.com/o6j35btcugol/scangpseu___40_3__41_.zip.html"
     },
     {
         "ImageSource": "https://i.imgur.com/IhcJK7m.jpeg",
