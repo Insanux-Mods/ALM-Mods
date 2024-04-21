@@ -43,12 +43,14 @@
     {
         "ImageSource": "https://imgur.com/HjIGg0o.png",
         "ModName": "Scania 2016 - Grill Double Burners and Super logo",
-        "DownloadURL": "https://sharemods.com/qk9kvx6n1jr7/NG_grill_dburners_super_logo.zip.html"
+        "DownloadURL_UK": "https://sharemods.com/qk9kvx6n1jr7/NG_grill_dburners_super_logo.zip.html",
+        "DownloadURL_EU": "https://sharemods.com/qk9kvx6n1jr7/NG_grill_dburners_super_logo.zip.html"
     },
     {
         "ImageSource": "https://imgur.com/k3Zs90r.png",
         "ModName": "Scania 2016 - Hollandstyle Sideskirt 6x2 short chassis",
-        "DownloadURL": "https://sharemods.com/u1fd0cesgbqt/NG_sideskirt_6x2mid.zip.html"
+        "DownloadURL_UK": "https://sharemods.com/u1fd0cesgbqt/NG_sideskirt_6x2mid.zip.html",
+        "DownloadURL_EU": "https://sharemods.com/u1fd0cesgbqt/NG_sideskirt_6x2mid.zip.html"
     },
     {
         "ImageSource": "https://i.imgur.com/XTgbrOo.png",
@@ -75,7 +77,8 @@
     {
         "ImageSource": "https://i.imgur.com/QoPQcbk.jpeg",
         "ModName": "Scania S 2016 - Scania V8 light logo",
-        "DownloadURL": "https://sharemods.com/fggvop2r3rzp/v8logo.zip.html"
+        "DownloadURL_UK": "https://sharemods.com/fggvop2r3rzp/v8logo.zip.html",
+        "DownloadURL_EU": "https://sharemods.com/fggvop2r3rzp/v8logo.zip.html"
     },
     {
         "ImageSource": "https://i.imgur.com/dozdGue.jpeg",
@@ -101,7 +104,7 @@
     },
     {
         "ImageSource": "https://i.imgur.com/KQcqjs7.jpeg",
-        "ModName": "Scania S 2016 - Mirror skin",
+        "ModName": "Scania S 2016 - Mirror skin EU/UK",
         "DownloadURL_UK": "https://sharemods.com/vqjpvn8sbg0n/Scania_ng_mirror_skin.zip.html",
         "DownloadURL_EU": "https://sharemods.com/vqjpvn8sbg0n/Scania_ng_mirror_skin.zip.html"
     },
@@ -142,7 +145,8 @@
     {
         "ImageSource": "https://i.imgur.com/wMvKDgC.png",
         "ModName": "Scania 2016 - Scania NG Curtains",
-        "DownloadURL": "https://sharemods.com/jq24q1j5qajm/ALM_NG_curtain.zip.html"
+        "DownloadURL_UK": "https://sharemods.com/jq24q1j5qajm/ALM_NG_curtain.zip.html",
+        "DownloadURL_EU": "https://sharemods.com/jq24q1j5qajm/ALM_NG_curtain.zip.html"
     },
     {
         "ImageSource": "https://i.imgur.com/ALby5qA.gif",
@@ -159,7 +163,8 @@
     {
         "ImageSource": "https://i.imgur.com/JrokMYz.png",
         "ModName": "Scania 2016 - Lighted Old Scania Badge Orange",
-        "DownloadURL": "https://sharemods.com/8h3545jh5wwk/ALM_NG_lighted_old_scania_badge.zip.html"
+        "DownloadURL_UK": "https://sharemods.com/8h3545jh5wwk/ALM_NG_lighted_old_scania_badge.zip.html",
+        "DownloadURL_EU": "https://sharemods.com/8h3545jh5wwk/ALM_NG_lighted_old_scania_badge.zip.html"
     },
     {
         "ImageSource": "https://i.imgur.com/Zk6DR2a.jpeg",
@@ -170,7 +175,8 @@
     {
         "ImageSource": "https://i.imgur.com/EjSCGOF.png",
         "ModName": "Scania 2016 - Window sticker",
-        "DownloadURL": "https://sharemods.com/xp9u2souwoww/ALM_NG_window_sticker.zip.html"
+        "DownloadURL_UK": "https://sharemods.com/xp9u2souwoww/ALM_NG_window_sticker.zip.html",
+        "DownloadURL_EU": "https://sharemods.com/xp9u2souwoww/ALM_NG_window_sticker.zip.html"
     },
     {
         "ImageSource": "https://i.imgur.com/m7umID0.jpeg",
@@ -181,7 +187,8 @@
     {
         "ImageSource": "https://i.imgur.com/ctWroG6.jpeg",
         "ModName": "Scania 2016 - Doorsteps in Truckcolor",
-        "DownloadURL": "https://sharemods.com/lb5z93uay1ps/ALM_NG_steps_truckcolor.zip.html"
+        "DownloadURL_UK": "https://sharemods.com/lb5z93uay1ps/ALM_NG_steps_truckcolor.zip.html",
+        "DownloadURL_EU": "https://sharemods.com/lb5z93uay1ps/ALM_NG_steps_truckcolor.zip.html"
     },
     {
         "ImageSource": "https://i.imgur.com/BXZ2HLE.gif",
@@ -192,7 +199,8 @@
     {
         "ImageSource": "https://i.imgur.com/iPuXfBT.png",
         "ModName": "Scania 2016 - Country LED Bars",
-        "DownloadURL": "https://sharemods.com/764402ltwoeg/ALM_Country_LEDstribe_mid.zip.html"
+        "DownloadURL_UK": "https://sharemods.com/764402ltwoeg/ALM_Country_LEDstribe_mid.zip.html",
+        "DownloadURL_EU": "https://sharemods.com/764402ltwoeg/ALM_Country_LEDstribe_mid.zip.html"
     },
     {
         "ImageSource": "https://i.imgur.com/zrsHYiX.jpeg",
@@ -250,8 +258,7 @@
     },
     {
         "ImageSource": "https://i.imgur.com/OCsppYX.jpeg",
-        "ModName": "Scania 2016 - Red Dash Butto",
-        "DownloadURL": "https://sharemods.com/705frrih562g/redbtn.zip.html",
+        "ModName": "Scania 2016 - Red Dash Buttons",
         "DownloadURL_EU": "https://sharemods.com/705frrih562g/redbtn.zip.html"
     },
     {
@@ -280,8 +287,7 @@
     },
     {
         "ImageSource": "https://i.imgur.com/1R9JsP0.jpeg",
-        "ModName": "Scania 2016 - Nokia Pho",
-        "DownloadURL": "https://sharemods.com/muswumba4yxk/nokiadash.7z.html",
+        "ModName": "Scania 2016 - Nokia Phone",
         "DownloadURL_EU": "https://sharemods.com/muswumba4yxk/nokiadash.7z.html"
     },
     {
@@ -298,14 +304,12 @@
     },
     {
         "ImageSource": "https://i.imgur.com/H5pu0Jr.jpeg",
-        "ModName": "Scania 2016 - Intercooler Bad",
-        "DownloadURL": "https://sharemods.com/t63lcg5ls3qu/Intercooler.zip.html",
+        "ModName": "Scania 2016 - Intercooler Badge",
         "DownloadURL_EU": "https://sharemods.com/t63lcg5ls3qu/Intercooler.zip.html"
     },
     {
         "ImageSource": "https://i.imgur.com/juqfabS.jpeg",
-        "ModName": "Scania 2016 - Animated GPS Scre",
-        "DownloadURL": "https://sharemods.com/09po78dmlvnv/scasnavi2.rar.html",
+        "ModName": "Scania 2016 - Animated GPS Screen",
         "DownloadURL_EU": "https://sharemods.com/09po78dmlvnv/scasnavi2.rar.html"
     },
     {
@@ -316,8 +320,7 @@
     },
     {
         "ImageSource": "https://i.imgur.com/HiZk9qj.jpeg",
-        "ModName": "Scania 2016 - GPS On Wind",
-        "DownloadURL": "https://sharemods.com/lsn7gvpczuk9/GPS_ALM.zip.html",
+        "ModName": "Scania 2016 - GPS On Window",
         "DownloadURL_EU": "https://sharemods.com/lsn7gvpczuk9/GPS_ALM.zip.html"
     },
     {
@@ -329,7 +332,8 @@
     {
         "ImageSource": "https://i.imgur.com/21cxPSP.jpeg",
         "ModName": "Scania 2016 - Mid Table Set",
-        "DownloadURL": "https://sharemods.com/u5wvseo5r5k3/SCANIA_ng_mid_table.set.rar.html"
+        "DownloadURL_UK": "https://sharemods.com/u5wvseo5r5k3/SCANIA_ng_mid_table.set.rar.html",
+        "DownloadURL_EU": "https://sharemods.com/u5wvseo5r5k3/SCANIA_ng_mid_table.set.rar.html"
     },
     {
         "ImageSource": "https://i.imgur.com/pgZnK8U.jpeg",
@@ -363,14 +367,12 @@
     },
     {
         "ImageSource": "https://i.imgur.com/ISANV7W.jpeg",
-        "ModName": "Scania 2016 - Dash Table S",
-        "DownloadURL": "https://sharemods.com/b76n9uaovvbs/sca16_dashsetv2.zip.html",
+        "ModName": "Scania 2016 - Dash Table Set",
         "DownloadURL_EU": "https://sharemods.com/b76n9uaovvbs/sca16_dashsetv2.zip.html"
     },
     {
         "ImageSource": "https://i.imgur.com/7jChWU4.jpeg",
-        "ModName": "Scania 2016 - Dash Table Set Insanux Sty",
-        "DownloadURL": "https://sharemods.com/ma6ncqhrljfw/sca16_dashset.zip.html",
+        "ModName": "Scania 2016 - Dash Table Set Insanux Style",
         "DownloadURL_EU": "https://sharemods.com/ma6ncqhrljfw/sca16_dashset.zip.html"
     },
     {
@@ -405,8 +407,7 @@
     },
     {
         "ImageSource": "https://i.imgur.com/Umrg9J8.png",
-        "ModName": "Scania 2016 - Li",
-        "DownloadURL": "https://sharemods.com/7o16mrnhl6b6/Lisa_ALM.zip.html",
+        "ModName": "Scania 2016 - Lisa",
         "DownloadURL_EU": "https://sharemods.com/7o16mrnhl6b6/Lisa_ALM.zip.html"
     },
     {
@@ -417,8 +418,7 @@
     },
     {
         "ImageSource": "https://i.imgur.com/wVVoMH6.jpeg",
-        "ModName": "Scania 2016 - Interior Set",
-        "DownloadURL": "https://sharemods.com/tjd2uhns2ae2/SCANIA_ng_intset.rar.html",
+        "ModName": "Scania 2016 - Interior Set -",
         "DownloadURL_EU": "https://sharemods.com/tjd2uhns2ae2/SCANIA_ng_intset.rar.html"
     },
     {
@@ -435,8 +435,7 @@
     },
     {
         "ImageSource": "https://i.imgur.com/ftPZzjd.gif",
-        "ModName": "Scania 2016 - Cat Animat",
-        "DownloadURL": "https://sharemods.com/r50v5kejk1cn/Cat1.zip.html",
+        "ModName": "Scania 2016 - Cat Animated",
         "DownloadURL_EU": "https://sharemods.com/r50v5kejk1cn/Cat1.zip.html"
     },
     {
@@ -453,14 +452,12 @@
     },
     {
         "ImageSource": "https://i.imgur.com/RSFQSK9.jpeg",
-        "ModName": "Scania 2016 - Phone With In-Game Ti",
-        "DownloadURL": "https://sharemods.com/jfk6xgzzc8ma/phone_time_uk___40_2__41_.zip.html",
+        "ModName": "Scania 2016 - Phone With In-Game Time",
         "DownloadURL_UK": "https://sharemods.com/jfk6xgzzc8ma/phone_time_uk___40_2__41_.zip.html"
     },
     {
         "ImageSource": "https://i.imgur.com/NH7EgtU.jpeg",
-        "ModName": "Scania 2016 - Phone With In-Game Ti",
-        "DownloadURL": "https://sharemods.com/535bitkx8cne/phone_time.zip.html",
+        "ModName": "Scania 2016 - Phone With In-Game Time",
         "DownloadURL_EU": "https://sharemods.com/535bitkx8cne/phone_time.zip.html"
     },
     {
@@ -483,8 +480,7 @@
     },
     {
         "ImageSource": "https://i.imgur.com/scNniXL.jpeg",
-        "ModName": "Scania 2016 - GPS Screen w/ Red Gl",
-        "DownloadURL": "https://sharemods.com/lh3qsulbt2bj/gpsglow.zip.html",
+        "ModName": "Scania 2016 - GPS Screen w/ Red Glow",
         "DownloadURL_EU": "https://sharemods.com/lh3qsulbt2bj/gpsglow.zip.html"
     },
     {
@@ -495,8 +491,7 @@
     },
     {
         "ImageSource": "https://i.imgur.com/5j3PnfO.jpeg",
-        "ModName": "Scania 2016 - Cigarette And Va",
-        "DownloadURL": "https://sharemods.com/zu7vos9bn5rq/svs.zip.html",
+        "ModName": "Scania 2016 - Cigarette And Vape",
         "DownloadURL_EU": "https://sharemods.com/zu7vos9bn5rq/svs.zip.html"
     },
     {
@@ -575,14 +570,12 @@
     },
     {
         "ImageSource": "https://i.imgur.com/ImZ7o9K.jpeg",
-        "ModName": "Scania 2016 - Custom Dash With Ite",
-        "DownloadURL": "https://sharemods.com/so9mvg1bp3kn/scantabeufix.zip.html",
+        "ModName": "Scania 2016 - Custom Dash With Items",
         "DownloadURL_EU": "https://sharemods.com/so9mvg1bp3kn/scantabeufix.zip.html"
     },
     {
         "ImageSource": "https://i.imgur.com/qgOkCOS.jpeg",
-        "ModName": "Scania 2016 - Custom Dash With Ite",
-        "DownloadURL": "https://sharemods.com/426r8exfk7mz/scantabukfix.zip.html",
+        "ModName": "Scania 2016 - Custom Dash With Items",
         "DownloadURL_UK": "https://sharemods.com/426r8exfk7mz/scantabukfix.zip.html"
     },
     {
@@ -605,14 +598,12 @@
     },
     {
         "ImageSource": "https://i.imgur.com/lmVonOc.jpeg",
-        "ModName": "Scania 2016 - Better Console With Pho",
-        "DownloadURL": "https://sharemods.com/f3c22grt240r/matphoneu.zip.html ",
+        "ModName": "Scania 2016 - Better Console With Phone",
         "DownloadURL_EU": "https://sharemods.com/f3c22grt240r/matphoneu.zip.html "
     },
     {
         "ImageSource": "https://i.imgur.com/WO5toah.jpeg",
-        "ModName": "Scania 2016 - Better Console With Pho",
-        "DownloadURL": "https://sharemods.com/y87cb369i4wc/matphone.zip.html",
+        "ModName": "Scania 2016 - Better Console With Phone",
         "DownloadURL_UK": "https://sharemods.com/y87cb369i4wc/matphone.zip.html"
     },
     {
@@ -623,26 +614,22 @@
     },
     {
         "ImageSource": "https://i.imgur.com/IhcJK7m.jpeg",
-        "ModName": "Scania 2016 - Custom GPS scre",
-        "DownloadURL": "https://sharemods.com/6lvywh28578u/scanplay.zip.html",
+        "ModName": "Scania 2016 - Custom GPS screen",
         "DownloadURL_EU": "https://sharemods.com/6lvywh28578u/scanplay.zip.html"
     },
     {
         "ImageSource": "https://i.imgur.com/V4FplDc.png",
-        "ModName": "Scania 2016 - Custom GPS scre",
-        "DownloadURL": "https://sharemods.com/k6n1iabezuno/scanplayuk.zip.html",
+        "ModName": "Scania 2016 - Custom GPS screen",
         "DownloadURL_UK": "https://sharemods.com/k6n1iabezuno/scanplayuk.zip.html"
     },
     {
         "ImageSource": "https://i.imgur.com/rBiZuqi.png",
-        "ModName": "Scania 2016 - Suspension Controll",
-        "DownloadURL": "https://sharemods.com/bv85mw7asjl0/suspensionctrl.zip.html",
+        "ModName": "Scania 2016 - Suspension Controller",
         "DownloadURL_EU": "https://sharemods.com/bv85mw7asjl0/suspensionctrl.zip.html"
     },
     {
         "ImageSource": "https://i.imgur.com/YJjCDsO.png",
-        "ModName": "Scania 2016 - Suspension Controll",
-        "DownloadURL": "https://sharemods.com/yo3wx3og2gh7/suspensionctrEU___40_2__41_.zip.html",
+        "ModName": "Scania 2016 - Suspension Controller",
         "DownloadURL_UK": "https://sharemods.com/yo3wx3og2gh7/suspensionctrEU___40_2__41_.zip.html"
     },
     {
@@ -653,37 +640,34 @@
     },
     {
         "ImageSource": "https://i.imgur.com/zZTtbie.png",
-        "ModName": "Scania 2016 - Animated C",
-        "DownloadURL": "https://sharemods.com/o07ginksd1vv/Scania_NG_Tobias_Cat_Seat_EU.zip.html",
+        "ModName": "Scania 2016 - Animated Cat",
         "DownloadURL_EU": "https://sharemods.com/o07ginksd1vv/Scania_NG_Tobias_Cat_Seat_EU.zip.html"
     },
     {
         "ImageSource": "https://i.imgur.com/rLXkgU3.jpeg",
-        "ModName": "Scania 2016 - Animated C",
-        "DownloadURL": "https://sharemods.com/efj66oqyfdse/Scania_NG_Tobias_Cat_Seat_UK.zip.html",
+        "ModName": "Scania 2016 - Animated Cat",
         "DownloadURL_UK": "https://sharemods.com/efj66oqyfdse/Scania_NG_Tobias_Cat_Seat_UK.zip.html"
     },
     {
         "ImageSource": "https://i.imgur.com/UfGmf41.jpeg",
         "ModName": "Scania 2016 - Sun Visor With Red Bar",
-        "DownloadURL_UK": "",
-        "DownloadURL_EU": ""
+        "DownloadURL_UK": "https://sharemods.com/tki0sc4ithkl/Scania_NG_Sunshield_LED_Red_Bar.zip.html",
+        "DownloadURL_EU": "https://sharemods.com/tki0sc4ithkl/Scania_NG_Sunshield_LED_Red_Bar.zip.html"
     },
     {
         "ImageSource": "https://i.imgur.com/dycVyIM.jpeg",
         "ModName": "Scania 2016 - Sun Visor Blinkers [Need Red Bar]",
-        "DownloadURL": "https://sharemods.com/cqpf4dfswlaq/Scania_NG_Sunshield_Blinkers_Addon.zip.html"
+        "DownloadURL_UK": "https://sharemods.com/cqpf4dfswlaq/Scania_NG_Sunshield_Blinkers_Addon.zip.html",
+        "DownloadURL_EU": "https://sharemods.com/cqpf4dfswlaq/Scania_NG_Sunshield_Blinkers_Addon.zip.html"
     },
     {
         "ImageSource": "https://i.imgur.com/8uBipwz.jpeg",
-        "ModName": "Scania 2016 - Holo Fuel +Outside Te",
-        "DownloadURL": "https://sharemods.com/n6qetxk9vvly/holofuel2.zip.html",
+        "ModName": "Scania 2016 - Holo Fuel +Outside Temp",
         "DownloadURL_EU": "https://sharemods.com/n6qetxk9vvly/holofuel2.zip.html"
     },
     {
         "ImageSource": "https://i.imgur.com/TyfA3Qv.jpeg",
-        "ModName": "Scania 2016 - Holo Fuel +Outside Te",
-        "DownloadURL": "https://sharemods.com/yr8ur684av54/holofuel.zip.html",
+        "ModName": "Scania 2016 - Holo Fuel +Outside Temp",
         "DownloadURL_UK": "https://sharemods.com/yr8ur684av54/holofuel.zip.html"
     },
     {
@@ -701,30 +685,27 @@
     {
         "ImageSource": "https://i.imgur.com/GYtDtuQ.jpeg",
         "ModName": "Scania 2016 - Orange DRL",
-        "DownloadURL": "https://sharemods.com/y0ujmldrwp2y/OrangeDRLS_RNew.zip.html"
+        "DownloadURL_UK": "https://sharemods.com/y0ujmldrwp2y/OrangeDRLS_RNew.zip.html",
+        "DownloadURL_EU": "https://sharemods.com/y0ujmldrwp2y/OrangeDRLS_RNew.zip.html"
     },
     {
         "ImageSource": "https://i.imgur.com/urvSWZJ.png",
-        "ModName": "Scania 2016 - Holo Speedomet",
-        "DownloadURL": "https://sharemods.com/evpzfo9ak728/holospeed2.zip.html",
+        "ModName": "Scania 2016 - Holo Speedometer",
         "DownloadURL_EU": "https://sharemods.com/evpzfo9ak728/holospeed2.zip.html"
     },
     {
         "ImageSource": "https://i.imgur.com/N0F8ixc.png",
-        "ModName": "Scania 2016 - Holo Speedomet",
-        "DownloadURL": "https://sharemods.com/efk8d7tn63ay/holospeed___40_2__41_.zip.html",
+        "ModName": "Scania 2016 - Holo Speedometer",
         "DownloadURL_UK": "https://sharemods.com/efk8d7tn63ay/holospeed___40_2__41_.zip.html"
     },
     {
         "ImageSource": "https://i.imgur.com/Vppnib9.png",
-        "ModName": "Scania 2016 - Holo Dashboa",
-        "DownloadURL": "https://sharemods.com/6f9vws414dv9/holodash1___40_2__41_.zip.html",
+        "ModName": "Scania 2016 - Holo Dashboard",
         "DownloadURL_EU": "https://sharemods.com/6f9vws414dv9/holodash1___40_2__41_.zip.html"
     },
     {
         "ImageSource": "https://i.imgur.com/Vppnib9.png",
-        "ModName": "Scania 2016 - Holo Dashboa",
-        "DownloadURL": "https://sharemods.com/uju882t7z0s0/holodash2.zip.html",
+        "ModName": "Scania 2016 - Holo Dashboard",
         "DownloadURL_UK": "https://sharemods.com/uju882t7z0s0/holodash2.zip.html"
     },
     {
@@ -735,20 +716,17 @@
     },
     {
         "ImageSource": "https://i.imgur.com/prXzScy.jpeg",
-        "ModName": "Scania 2016 - Big G",
-        "DownloadURL": "https://sharemods.com/ummv7awf65ab/60kmgps.zip.html",
+        "ModName": "Scania 2016 - Big GPS",
         "DownloadURL_EU": "https://sharemods.com/ummv7awf65ab/60kmgps.zip.html"
     },
     {
         "ImageSource": "https://i.imgur.com/gWXdfOo.jpeg",
-        "ModName": "Scania 2016 - Big G",
-        "DownloadURL": "https://sharemods.com/iqkkh8efn88q/60kmgps2.zip.html",
+        "ModName": "Scania 2016 - Big GPS",
         "DownloadURL_UK": "https://sharemods.com/iqkkh8efn88q/60kmgps2.zip.html"
     },
     {
         "ImageSource": "https://i.imgur.com/sq4FvZ2.jpeg",
-        "ModName": "Scania 2016 Big + Small G",
-        "DownloadURL": "https://sharemods.com/7x68lcvljrcg/ipad2.zip.html",
+        "ModName": "Scania 2016 Big + Small GPS",
         "DownloadURL_EU": "https://sharemods.com/7x68lcvljrcg/ipad2.zip.html"
     },
     {
@@ -758,37 +736,33 @@
     },
     {
         "ImageSource": "https://i.imgur.com/Wu2bXV7.jpeg",
-        "ModName": "Scania 2016 - CB Rad",
-        "DownloadURL": "https://sharemods.com/rd1xjvx2ptye/CB.zip.html",
+        "ModName": "Scania 2016 - CB Radio",
         "DownloadURL_EU": "https://sharemods.com/rd1xjvx2ptye/CB.zip.html"
     },
     {
         "ImageSource": "https://i.imgur.com/qb6TIFN.jpeg",
         "ModName": "Scania 2016 - Custom Flag",
-        "DownloadURL": "https://sharemods.com/zwt0a59g62v3/cflag.zip.html"
+        "DownloadURL_EU": "https://sharemods.com/zwt0a59g62v3/cflag.zip.html",
+        "DownloadURL_UK": "https://sharemods.com/zwt0a59g62v3/cflag.zip.html"
     },
     {
         "ImageSource": "https://i.imgur.com/l6zfCgm.jpeg",
-        "ModName": "Scania S 2016 - PC Setup G",
-        "DownloadURL": "https://sharemods.com/l60dpun7svfw/pc2gpsFIX.zip.html",
+        "ModName": "Scania S 2016 - PC Setup GPS",
         "DownloadURL_EU": "https://sharemods.com/l60dpun7svfw/pc2gpsFIX.zip.html"
     },
     {
         "ImageSource": "https://i.imgur.com/EWIBMQG.jpeg",
-        "ModName": "Scania S 2016 - PC Setup G",
-        "DownloadURL": "https://sharemods.com/nirubb9v6w7k/pcgps.zip.html",
+        "ModName": "Scania S 2016 - PC Setup GPS",
         "DownloadURL_UK": "https://sharemods.com/nirubb9v6w7k/pcgps.zip.html"
     },
     {
         "ImageSource": "https://i.imgur.com/Yb7hQjL.jpeg",
-        "ModName": "Scania S 2016 - PC Set",
-        "DownloadURL": "https://sharemods.com/q7iq3tgxfrkc/pc2.zip.html",
+        "ModName": "Scania S 2016 - PC Setup",
         "DownloadURL_EU": "https://sharemods.com/q7iq3tgxfrkc/pc2.zip.html"
     },
     {
         "ImageSource": "https://i.imgur.com/K97NYZq.jpeg",
-        "ModName": "Scania S 2016 - PC Set",
-        "DownloadURL": "https://sharemods.com/yc20g6bgxuvv/pc.zip.html",
+        "ModName": "Scania S 2016 - PC Setup",
         "DownloadURL_UK": "https://sharemods.com/yc20g6bgxuvv/pc.zip.html"
     },
     {
@@ -811,14 +785,12 @@
     },
     {
         "ImageSource": "https://i.imgur.com/SYiSwVn.jpeg",
-        "ModName": "Scania 2016 - Doraem",
-        "DownloadURL": "https://sharemods.com/kf914e60er83/Doraemon.7z.html",
+        "ModName": "Scania 2016 - Doraemon",
         "DownloadURL_EU": "https://sharemods.com/kf914e60er83/Doraemon.7z.html"
     },
     {
         "ImageSource": "https://i.imgur.com/KzLsR2Q.jpeg",
-        "ModName": "Scania 2016 - Doraemon Orname",
-        "DownloadURL": "https://sharemods.com/f8wcqau1m2az/doraemon_ornament.zip.html",
+        "ModName": "Scania 2016 - Doraemon Ornament",
         "DownloadURL_EU": "https://sharemods.com/f8wcqau1m2az/doraemon_ornament.zip.html"
     },
     {
@@ -835,14 +807,12 @@
     },
     {
         "ImageSource": "https://i.imgur.com/LGZnUPV.jpeg",
-        "ModName": "Scania 2016 - Coral Palace Heart S",
-        "DownloadURL": "https://sharemods.com/yffuumyj2fqa/Coral_Palace_Heart_Sea.zip.html",
+        "ModName": "Scania 2016 - Coral Palace Heart Sea",
         "DownloadURL_EU": "https://sharemods.com/yffuumyj2fqa/Coral_Palace_Heart_Sea.zip.html"
     },
     {
         "ImageSource": "https://i.imgur.com/oAlWCYn.jpeg",
-        "ModName": "Scania 2016 - Interior Addo",
-        "DownloadURL": "https://sharemods.com/h666xo1a7m2k/Int.zip.html",
+        "ModName": "Scania 2016 - Interior Addons",
         "DownloadURL_EU": "https://sharemods.com/h666xo1a7m2k/Int.zip.html"
     },
     {
@@ -865,8 +835,7 @@
     },
     {
         "ImageSource": "https://i.imgur.com/pJj2WBn.jpeg",
-        "ModName": "Scania 2016 - Interior Fulls",
-        "DownloadURL": "https://sharemods.com/lkjlojz9npyd/intmega.zip.html",
+        "ModName": "Scania 2016 - Interior Fullset",
         "DownloadURL_EU": "https://sharemods.com/lkjlojz9npyd/intmega.zip.html"
     },
     {
@@ -883,8 +852,7 @@
     },
     {
         "ImageSource": "https://i.imgur.com/Mv2yyql.png",
-        "ModName": "Scania 2016 - Blue Dash Ligh",
-        "DownloadURL": "https://sharemods.com/b4phzzxjvpgq/blue_light.zip.html",
+        "ModName": "Scania 2016 - Blue Dash Lights",
         "DownloadURL_EU": "https://sharemods.com/b4phzzxjvpgq/blue_light.zip.html"
     },
     {
@@ -895,26 +863,22 @@
     },
     {
         "ImageSource": "https://i.imgur.com/d8qch4x.jpeg",
-        "ModName": "Scania NG H-Shift",
-        "DownloadURL": "https://sharemods.com/4re08z9aai5h/ng_shifter.zip.html",
+        "ModName": "Scania NG H-Shifter",
         "DownloadURL_EU": "https://sharemods.com/4re08z9aai5h/ng_shifter.zip.html"
     },
     {
         "ImageSource": "https://i.imgur.com/yJWYctt.jpeg",
-        "ModName": "Scania 2016 Items Table S",
-        "DownloadURL": "https://sharemods.com/likg99by706o/Scania-dash-items.zip.html",
+        "ModName": "Scania 2016 Items Table Set",
         "DownloadURL_EU": "https://sharemods.com/likg99by706o/Scania-dash-items.zip.html"
     },
     {
         "ImageSource": "https://i.imgur.com/MoVsIEf.png",
-        "ModName": "Scania 2016 - Spining Sko",
-        "DownloadURL": "https://sharemods.com/kdcus650r3vv/Skoda_trim_animated_version.rar.html",
+        "ModName": "Scania 2016 - Spining Skoda",
         "DownloadURL_EU": "https://sharemods.com/kdcus650r3vv/Skoda_trim_animated_version.rar.html"
     },
     {
         "ImageSource": "https://i.imgur.com/lWos03b.png",
-        "ModName": "Scania 2016 - Paimon Animati",
-        "DownloadURL": "https://sharemods.com/quh3az0bzeon/Paimon_Animation_alm.zip.html",
+        "ModName": "Scania 2016 - Paimon Animation",
         "DownloadURL_EU": "https://sharemods.com/quh3az0bzeon/Paimon_Animation_alm.zip.html"
     },
     {
@@ -931,8 +895,7 @@
     },
     {
         "ImageSource": "https://i.imgur.com/UFsFbk2.jpeg",
-        "ModName": "Scania 2016 - Treasure Tr",
-        "DownloadURL": "https://sharemods.com/owrq3tfu3fid/Treasure_tree.7z.html",
+        "ModName": "Scania 2016 - Treasure Tree",
         "DownloadURL_EU": "https://sharemods.com/owrq3tfu3fid/Treasure_tree.7z.html"
     },
     {
@@ -943,8 +906,7 @@
     },
     {
         "ImageSource": "https://i.imgur.com/GDxVqZV.jpeg",
-        "ModName": "Scania 2016 - JiaRan Passeng",
-        "DownloadURL": "https://sharemods.com/0nppoyxp9tlm/JiaRan_Co-Driver.rar.html",
+        "ModName": "Scania 2016 - JiaRan Passenger",
         "DownloadURL_EU": "https://sharemods.com/0nppoyxp9tlm/JiaRan_Co-Driver.rar.html"
     },
     {
@@ -955,8 +917,7 @@
     },
     {
         "ImageSource": "https://i.imgur.com/0fjXTQu.jpeg",
-        "ModName": "Scania 2016 - Electric Mirrors+Dashboa",
-        "DownloadURL": "https://sharemods.com/eah9wacy4pqr/Electronic_mirrors_and_vehicle_information.zip.html",
+        "ModName": "Scania 2016 - Electric Mirrors+Dashboard",
         "DownloadURL_EU": "https://sharemods.com/eah9wacy4pqr/Electronic_mirrors_and_vehicle_information.zip.html"
     },
     {
@@ -973,8 +934,7 @@
     },
     {
         "ImageSource": "https://i.imgur.com/k1zpBAN.jpeg",
-        "ModName": "Scania 2016 - 2 Red Popp",
-        "DownloadURL": "https://sharemods.com/a7v3166j7ijt/poppysscania.zip.html",
+        "ModName": "Scania 2016 - 2 Red Poppys",
         "DownloadURL_EU": "https://sharemods.com/a7v3166j7ijt/poppysscania.zip.html"
     },
     {
@@ -985,8 +945,7 @@
     },
     {
         "ImageSource": "https://i.imgur.com/D457NEC.jpeg",
-        "ModName": "Scania 2016 - Speedomet",
-        "DownloadURL": "https://sharemods.com/ltoevhf8jpjm/ScaS_Speedometer.rar.html",
+        "ModName": "Scania 2016 - Speedometer",
         "DownloadURL_EU": "https://sharemods.com/ltoevhf8jpjm/ScaS_Speedometer.rar.html"
     },
     {
@@ -997,8 +956,7 @@
     },
     {
         "ImageSource": "https://i.imgur.com/bfoIc1G.jpeg",
-        "ModName": "Scania 2016 - Bibendum Passeng",
-        "DownloadURL": "https://sharemods.com/7mmtmuy1ywfr/Bibendum.co_driver_-_ALM.rar.html",
+        "ModName": "Scania 2016 - Bibendum Passenger",
         "DownloadURL_EU": "https://sharemods.com/7mmtmuy1ywfr/Bibendum.co_driver_-_ALM.rar.html"
     },
     {
@@ -1015,8 +973,7 @@
     },
     {
         "ImageSource": "https://i.imgur.com/9w3btBG.jpeg",
-        "ModName": "Scania 2016 - Lisa-Accessori",
-        "DownloadURL": "https://sharemods.com/ah4vt0beyk6y/lisa.rar.html ",
+        "ModName": "Scania 2016 - Lisa-Accessories",
         "DownloadURL_EU": "https://sharemods.com/ah4vt0beyk6y/lisa.rar.html "
     },
     {
@@ -1033,14 +990,12 @@
     },
     {
         "ImageSource": "https://i.imgur.com/gOgT3Bs.jpeg",
-        "ModName": "Scania 2016 - Front Came",
-        "DownloadURL": "https://sharemods.com/jonxw8pleytm/scfrontcamera.zip.html",
+        "ModName": "Scania 2016 - Front Camera",
         "DownloadURL_EU": "https://sharemods.com/jonxw8pleytm/scfrontcamera.zip.html"
     },
     {
         "ImageSource": "https://i.imgur.com/8Rgtqms.jpeg",
-        "ModName": "Scania 2016 - Gawr Gura-Scania-ski",
-        "DownloadURL": "https://sharemods.com/x5v11shoqvyp/Gawr_Gura-Scania.rar.html ",
+        "ModName": "Scania 2016 - Gawr Gura-Scania-skins",
         "DownloadURL_EU": "https://sharemods.com/x5v11shoqvyp/Gawr_Gura-Scania.rar.html "
     },
     {
@@ -1087,8 +1042,7 @@
     },
     {
         "ImageSource": "https://i.imgur.com/nIYpfMY.png",
-        "ModName": "Scania 2016 - Animated F",
-        "DownloadURL": "https://sharemods.com/gwbgn9nve83v/Indoor_small_fan.zip.html",
+        "ModName": "Scania 2016 - Animated Fan",
         "DownloadURL_EU": "https://sharemods.com/gwbgn9nve83v/Indoor_small_fan.zip.html"
     },
     {
@@ -1105,14 +1059,12 @@
     },
     {
         "ImageSource": "https://i.imgur.com/j8m2LaJ.jpeg",
-        "ModName": "Scania 2016 - Front Cam w/ Dashboa",
-        "DownloadURL": "https://sharemods.com/k0yytecmojha/f_cam_dash_details.rar.html",
+        "ModName": "Scania 2016 - Front Cam w/ Dashboard",
         "DownloadURL_EU": "https://sharemods.com/k0yytecmojha/f_cam_dash_details.rar.html"
     },
     {
         "ImageSource": "https://i.imgur.com/d4Pf91E.jpeg",
-        "ModName": "Scania 2016 - Ipad Air GPS w/ Radio Ima",
-        "DownloadURL": "https://sharemods.com/l8w8wbctei6c/gps_and_radio_frax.rar.html",
+        "ModName": "Scania 2016 - Ipad Air GPS w/ Radio Image",
         "DownloadURL_EU": "https://sharemods.com/l8w8wbctei6c/gps_and_radio_frax.rar.html"
     },
     {
@@ -1195,8 +1147,7 @@
     },
     {
         "ImageSource": "https://i.imgur.com/whb0t7o.png",
-        "ModName": "Scania 2016 - Iphone",
-        "DownloadURL": "https://sharemods.com/5a7n5ocsu2qj/iphone_scania_dash.rar.html",
+        "ModName": "Scania 2016 - Iphone 12",
         "DownloadURL_EU": "https://sharemods.com/5a7n5ocsu2qj/iphone_scania_dash.rar.html"
     },
     {
@@ -1213,8 +1164,7 @@
     },
     {
         "ImageSource": "https://i.imgur.com/BCyISJ9.png",
-        "ModName": "Scania 2016 - Garmin G",
-        "DownloadURL": "https://sharemods.com/ae3q9tk0mj0p/scaniagarmin.rar.html",
+        "ModName": "Scania 2016 - Garmin GPS",
         "DownloadURL_EU": "https://sharemods.com/ae3q9tk0mj0p/scaniagarmin.rar.html"
     },
     {
@@ -1237,8 +1187,7 @@
     },
     {
         "ImageSource": "https://i.imgur.com/3gtbdsZ.jpeg",
-        "ModName": "Scania 2016 - Font Came",
-        "DownloadURL": "https://sharemods.com/k1k7urplm0df/Front_camera_1.40.zip.html",
+        "ModName": "Scania 2016 - Font Camera",
         "DownloadURL_EU": "https://sharemods.com/k1k7urplm0df/Front_camera_1.40.zip.html"
     },
     {
@@ -1274,7 +1223,8 @@
     {
         "ImageSource": "https://i.imgur.com/p9jBBr8.png",
         "ModName": "Scania 2016 - Blue DRL",
-        "DownloadURL": "https://sharemods.com/is2eru55w8oh/Blue_Day_Running_Lights.zip.html"
+        "DownloadURL_UK": "https://sharemods.com/is2eru55w8oh/Blue_Day_Running_Lights.zip.html",
+        "DownloadURL_EU": "https://sharemods.com/is2eru55w8oh/Blue_Day_Running_Lights.zip.html"
     },
     {
         "ImageSource": "https://i.imgur.com/8M0vzXy.jpeg",
@@ -1284,7 +1234,7 @@
     },
     {
         "ImageSource": "https://i.imgur.com/WREes4C.jpeg",
-        "ModName": "Scania 2016 - Spoiler Lights",
+        "ModName": "Scania 2016 - Spoiler Lights EU/UK",
         "DownloadURL_UK": "https://sharemods.com/zd00bu0ukx6m/scania_spoiler_light_flares.rar.html",
         "DownloadURL_EU": "https://sharemods.com/zd00bu0ukx6m/scania_spoiler_light_flares.rar.html"
     },
@@ -1295,13 +1245,13 @@
     },
     {
         "ImageSource": "https://i.imgur.com/exlM8z4.jpeg",
-        "ModName": "Scania 2016 - LuxNewGen",
+        "ModName": "Scania 2016 - LuxNewGen EU/UK",
         "DownloadURL_UK": "https://sharemods.com/wkwun1x55wvm/LuxNewGen.zip.html",
         "DownloadURL_EU": "https://sharemods.com/wkwun1x55wvm/LuxNewGen.zip.html"
     },
     {
         "ImageSource": "https://i.imgur.com/48qJsgU.jpeg",
-        "ModName": "Scania 2016 XTBumper",
+        "ModName": "Scania 2016 XTBumper EU/UK",
         "DownloadURL_UK": "https://sharemods.com/wujw55keha97/XTbumper.zip.html",
         "DownloadURL_EU": "https://sharemods.com/wujw55keha97/XTbumper.zip.html"
     },
@@ -1347,12 +1297,12 @@
     },
     {
         "ImageSource": "https://i.imgur.com/ckNmw0n.png",
-        "ModName": "Scania 2016 - King Of The Road Badge",
+        "ModName": "Scania 2016 - King Of The Road Badge EU",
         "DownloadURL_EU": "https://sharemods.com/u8tnedd82kg5/King_Of_The_Road.zip.html"
     },
     {
         "ImageSource": "https://i.imgur.com/87ISTgp.png",
-        "ModName": "Scania 2016 - Poppy",
+        "ModName": "Scania 2016 - Poppy EU",
         "DownloadURL_EU": "https://sharemods.com/9x4fz7vmhiuu/Poppy.rar.html"
     },
     {
@@ -1362,7 +1312,7 @@
     },
     {
         "ImageSource": "https://i.imgur.com/twdREPk.jpeg",
-        "ModName": "Scania 2016 - Speedometer",
+        "ModName": "Scania 2016 - Speedometer EU",
         "DownloadURL_EU": "https://sharemods.com/yzmcbwvil4dm/scania_speedometer.rar.html"
     },
     {
