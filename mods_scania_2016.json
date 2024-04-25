@@ -2,7 +2,8 @@
     {
         "ImageSource": "https://i.imgur.com/ZiH7ha3.png",
         "ModName": "Speed Limit on Dashboard",
-        "DownloadURL_EU": "https://sharemods.com/b98znbafvu57/Dash_Speed_EU.zip.html"
+        "DownloadURL_EU": "https://sharemods.com/b98znbafvu57/Dash_Speed_EU.zip.html",
+        "DownloadURL_UK": "https://sharemods.com/6kwjn0xddeif/Dash_Speed_UK.zip.html"
     },
     {
         "ImageSource": "https://i.imgur.com/d0C7G0Z.png",
@@ -11,7 +12,7 @@
     },
     {
         "ImageSource": "https://i.imgur.com/nNQX0N8.png",
-        "ModName": "Scania 2016 - Paint Sidebar EU/UK",
+        "ModName": "Scania 2016 - Paint Sidebar",
         "DownloadURL_UK": "https://sharemods.com/c4hrujkur8dm/Custom_SideBar.zip.html",
         "DownloadURL_EU": "https://sharemods.com/c4hrujkur8dm/Custom_SideBar.zip.html"
     },
