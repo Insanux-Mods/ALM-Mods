@@ -1,7 +1,12 @@
 [
-  {
-    "ImageSource": "https://i.imgur.com/yEfs4HR.png",
-    "ModName": "Lightbox and Exhaust",
-    "DownloadURL": "https://sharemods.com/i3obh9cgx14y/ivecoext.zip.html"
-  }
+    {
+        "ImageSource": "https://i.imgur.com/P120MKI.png",
+        "ModName": "Iveco Hi-Way - Big GPS",
+        "DownloadURL_EU": "https://sharemods.com/s3hlu16dvb4g/Iveco_Big_GPS.zip.html"
+    },
+    {
+        "ImageSource": "https://i.imgur.com/yEfs4HR.png",
+        "ModName": "Lightbox and Exhaust",
+        "DownloadURL": "https://sharemods.com/i3obh9cgx14y/ivecoext.zip.html"
+    }
 ]
