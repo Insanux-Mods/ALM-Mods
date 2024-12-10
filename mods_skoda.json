@@ -1,77 +1,82 @@
 [
-  {
-    "ImageSource": "https://i.imgur.com/EICRnih.gif",
-    "ModName": "Titan Sub",
-    "DownloadURL": "https://sharemods.com/owegv1ucdl6z/tsub.zip.html"
-  },
-  {
-    "ImageSource": "https://i.imgur.com/613Ni3D.gif",
-    "ModName": "Skoda Plane",
-    "DownloadURL": "https://sharemods.com/33a5vegdgkmm/skoda_plane_insx___40_1__41_.zip.html"
-  },
-  {
-    "ImageSource": "https://i.imgur.com/uVAXJyY.jpeg",
-    "ModName": "Skoda Harley Davidson Skin",
-    "DownloadURL": "https://sharemods.com/41e0up8fwfp8/Skoda_skin.rar.html"
-  },
-  {
-    "ImageSource": "https://i.imgur.com/5KWTCkm.jpeg",
-    "ModName": "Custom Holland Fullset",
-    "DownloadURL": "https://sharemods.com/z88r3g0jgnhv/Skoda_Custom_Holland_Fullset.zip.html"
-  },
-  {
-    "ImageSource": "https://i.imgur.com/8mjnWRe.jpeg",
-    "ModName": "French Young Driver Licence Sticker",
-    "DownloadURL": "https://sharemods.com/pcvmbs1i7y6u/youngdriver.zip.html"
-  },
-  {
-    "ImageSource": "https://i.imgur.com/ACThgLh.jpeg",
-    "ModName": "Back Underglow",
-    "DownloadURL": "https://sharemods.com/92q6kzgtemq8/skoda_back_underglow.rar.html"
-  },
-  {
-    "ImageSource": "https://i.imgur.com/I4fzPYF.jpeg",
-    "ModName": "Side Underglow",
-    "DownloadURL": "https://sharemods.com/i82boj3owar1/skoda_side_underglow.rar.html"
-  },
-  {
-    "ImageSource": "https://i.imgur.com/eoOgT9W.jpeg",
-    "ModName": "Front Underglow",
-    "DownloadURL": "https://sharemods.com/g9purkpx5puy/skoda_front_underglow.rar.html"
-  },
-  {
-    "ImageSource": "https://i.imgur.com/nqKvKDk.gif",
-    "ModName": "Sequential Turn Signal",
-    "DownloadURL": "https://sharemods.com/qq1pgk0z99c8/skoda_sequential_signal.rar.html"
-  },
-  {
-    "ImageSource": "https://i.imgur.com/MXKTIpe.jpeg",
-    "ModName": "Skoda Orange DRL",
-    "DownloadURL": "https://sharemods.com/811n3ps535p4/skoda_orange_drl.rar.html"
-  },
-  {
-    "ImageSource": "https://i.imgur.com/Uf2Lwjb.jpeg",
-    "ModName": "Skoda Spoiler",
-    "DownloadURL": "https://sharemods.com/mrbzsthdylmf/skoda_spoiler.rar.html"
-  },
-  {
-    "ImageSource": "https://i.imgur.com/OGOLoSf.jpeg",
-    "ModName": "Skoda Accessory Pack",
-    "DownloadURL": "https://sharemods.com/1z3tu0frk4nk/skoda_qinggu_accessories.rar.html"
-  },
-  {
-    "ImageSource": "https://i.imgur.com/wWZb7iq.jpeg",
-    "ModName": "TMP Admin Skin",
-    "DownloadURL": "https://sharemods.com/qkued0c2oq7b/skoda_admin_skin.rar.html"
-  },
-  {
-    "ImageSource": "https://i.imgur.com/yIStny6.jpeg",
-    "ModName": "Skoda Skin | UK Police",
-    "DownloadURL": "https://sharemods.com/ecsqx4jdncxi/skoda_uk_police_skin.rar.html"
-  },
-  {
-    "ImageSource": "https://i.imgur.com/HBZHvzL.gif",
-    "ModName": "Train",
-    "DownloadURL": "https://sharemods.com/xso3mmw9u3n4/train.zip.html"
-  }
+    {
+        "ImageSource": "https://i.imgur.com/BC45CoZ.png",
+        "ModName": "Skoda - Big GPS",
+        "DownloadURL_EU": "https://sharemods.com/7vsafzay9d56/AFG_Skoda_Big_Gps_EU.zip.html"
+    },
+    {
+        "ImageSource": "https://i.imgur.com/EICRnih.gif",
+        "ModName": "Titan Sub",
+        "DownloadURL": "https://sharemods.com/owegv1ucdl6z/tsub.zip.html"
+    },
+    {
+        "ImageSource": "https://i.imgur.com/613Ni3D.gif",
+        "ModName": "Skoda Plane",
+        "DownloadURL": "https://sharemods.com/33a5vegdgkmm/skoda_plane_insx___40_1__41_.zip.html"
+    },
+    {
+        "ImageSource": "https://i.imgur.com/uVAXJyY.jpeg",
+        "ModName": "Skoda Harley Davidson Skin",
+        "DownloadURL": "https://sharemods.com/41e0up8fwfp8/Skoda_skin.rar.html"
+    },
+    {
+        "ImageSource": "https://i.imgur.com/5KWTCkm.jpeg",
+        "ModName": "Custom Holland Fullset",
+        "DownloadURL": "https://sharemods.com/z88r3g0jgnhv/Skoda_Custom_Holland_Fullset.zip.html"
+    },
+    {
+        "ImageSource": "https://i.imgur.com/8mjnWRe.jpeg",
+        "ModName": "French Young Driver Licence Sticker",
+        "DownloadURL": "https://sharemods.com/pcvmbs1i7y6u/youngdriver.zip.html"
+    },
+    {
+        "ImageSource": "https://i.imgur.com/ACThgLh.jpeg",
+        "ModName": "Back Underglow",
+        "DownloadURL": "https://sharemods.com/92q6kzgtemq8/skoda_back_underglow.rar.html"
+    },
+    {
+        "ImageSource": "https://i.imgur.com/I4fzPYF.jpeg",
+        "ModName": "Side Underglow",
+        "DownloadURL": "https://sharemods.com/i82boj3owar1/skoda_side_underglow.rar.html"
+    },
+    {
+        "ImageSource": "https://i.imgur.com/eoOgT9W.jpeg",
+        "ModName": "Front Underglow",
+        "DownloadURL": "https://sharemods.com/g9purkpx5puy/skoda_front_underglow.rar.html"
+    },
+    {
+        "ImageSource": "https://i.imgur.com/nqKvKDk.gif",
+        "ModName": "Sequential Turn Signal",
+        "DownloadURL": "https://sharemods.com/qq1pgk0z99c8/skoda_sequential_signal.rar.html"
+    },
+    {
+        "ImageSource": "https://i.imgur.com/MXKTIpe.jpeg",
+        "ModName": "Skoda Orange DRL",
+        "DownloadURL": "https://sharemods.com/811n3ps535p4/skoda_orange_drl.rar.html"
+    },
+    {
+        "ImageSource": "https://i.imgur.com/Uf2Lwjb.jpeg",
+        "ModName": "Skoda Spoiler",
+        "DownloadURL": "https://sharemods.com/mrbzsthdylmf/skoda_spoiler.rar.html"
+    },
+    {
+        "ImageSource": "https://i.imgur.com/OGOLoSf.jpeg",
+        "ModName": "Skoda Accessory Pack",
+        "DownloadURL": "https://sharemods.com/1z3tu0frk4nk/skoda_qinggu_accessories.rar.html"
+    },
+    {
+        "ImageSource": "https://i.imgur.com/wWZb7iq.jpeg",
+        "ModName": "TMP Admin Skin",
+        "DownloadURL": "https://sharemods.com/qkued0c2oq7b/skoda_admin_skin.rar.html"
+    },
+    {
+        "ImageSource": "https://i.imgur.com/yIStny6.jpeg",
+        "ModName": "Skoda Skin | UK Police",
+        "DownloadURL": "https://sharemods.com/ecsqx4jdncxi/skoda_uk_police_skin.rar.html"
+    },
+    {
+        "ImageSource": "https://i.imgur.com/HBZHvzL.gif",
+        "ModName": "Train",
+        "DownloadURL": "https://sharemods.com/xso3mmw9u3n4/train.zip.html"
+    }
 ]
