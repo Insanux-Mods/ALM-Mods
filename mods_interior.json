@@ -44,32 +44,32 @@
     {
         "ImageSource": "https://i.imgur.com/YHcqAkU.jpeg",
         "ModName": "Scania R/S 09 - V8 Interior [Interior + Exterior View]",
-        "DownloadURL": "https://sharemods.com/erghsq434yj0/Scania_2009_V8_lowcab_int.zip.html"
+        "DownloadURL_EU": "https://sharemods.com/erghsq434yj0/Scania_2009_V8_lowcab_int.zip.html"
     },
     {
         "ImageSource": "https://i.imgur.com/1bB4FoB.jpeg",
         "ModName": "Scania S 2016 - 3-spoke Interior [Interior + Exterior View]",
-        "DownloadURL": "https://sharemods.com/96feg2igxjd4/Scania_S_3spoke_interior.zip.html"
+        "DownloadURL_EU": "https://sharemods.com/96feg2igxjd4/Scania_S_3spoke_interior.zip.html"
     },
     {
         "ImageSource": "https://i.imgur.com/6tM2zgg.jpeg",
         "ModName": "Scania R 2016 - VAN MERODE Interior",
-        "DownloadURL": "https://sharemods.com/jdyewh5jouaq/Scania_R16_van_merode_interior.zip.html"
+        "DownloadURL_EU": "https://sharemods.com/jdyewh5jouaq/Scania_R16_van_merode_interior.zip.html"
     },
     {
         "ImageSource": "https://i.imgur.com/5ep3xhu.jpeg",
         "ModName": "Scania S 2016 - Scania-Vabis Interior",
-        "DownloadURL": "https://sharemods.com/mmzx72s58oyb/SCANIA_ng_vabis_interior_ape.zip.html"
+        "DownloadURL_EU": "https://sharemods.com/mmzx72s58oyb/SCANIA_ng_vabis_interior_ape.zip.html"
     },
     {
         "ImageSource": "https://i.imgur.com/wrD3Dm5.jpeg",
-        "ModName": "Scania S16 - Beige + Red Pluche EU",
-        "DownloadURL": "https://sharemods.com/32i4neoo7f89/SCANIA_ng_beige_interior_red.rar.html"
+        "ModName": "Scania S16 - Beige + Red Pluche",
+        "DownloadURL_EU": "https://sharemods.com/32i4neoo7f89/SCANIA_ng_beige_interior_red.rar.html"
     },
     {
         "ImageSource": "https://i.imgur.com/X8wtNha.png",
-        "ModName": "MAN 2020 - Black & White Alcantara Interior EU",
-        "DownloadURL": "https://sharemods.com/44fgbojbhex4/MAN_2020_interior.rar.html"
+        "ModName": "MAN 2020 - Black & White Alcantara Interior",
+        "DownloadURL_EU": "https://sharemods.com/44fgbojbhex4/MAN_2020_interior.rar.html"
     },
     {
         "ImageSource": "https://i.imgur.com/HHls7VB.jpeg",
@@ -88,18 +88,18 @@
     },
     {
         "ImageSource": "https://i.imgur.com/roD8hhB.jpeg",
-        "ModName": "Beige and Red Pluche Interior EU",
-        "DownloadURL": "https://sharemods.com/0osoh4hndrbe/SCANIA_og_beige_pluche.interior_fix.rar.html"
+        "ModName": "Beige and Red Pluche Interior",
+        "DownloadURL_EU": "https://sharemods.com/0osoh4hndrbe/SCANIA_og_beige_pluche.interior_fix.rar.html"
     },
     {
         "ImageSource": "https://i.imgur.com/mupQlHr.jpeg",
-        "ModName": "Alcantara Beige/Brown/White Interior EU",
-        "DownloadURL": "https://sharemods.com/1nigexb11fa4/man2020.int.zip.html"
+        "ModName": "Alcantara Beige/Brown/White Interior",
+        "DownloadURL_EU": "https://sharemods.com/1nigexb11fa4/man2020.int.zip.html"
     },
     {
         "ImageSource": "https://i.imgur.com/uyd8SCZ.jpeg",
-        "ModName": "Red and White Alcantara Interior EU",
-        "DownloadURL": "https://sharemods.com/ezf5m7yuznjm/volvo.09_int.zip.html"
+        "ModName": "Red and White Alcantara Interior",
+        "DownloadURL_EU": "https://sharemods.com/ezf5m7yuznjm/volvo.09_int.zip.html"
     },
     {
         "ImageSource": "https://i.imgur.com/olBT7Q7.jpeg",
@@ -108,23 +108,17 @@
     },
     {
         "ImageSource": "https://i.imgur.com/BgFiyXe.jpeg",
-        "ModName": "Aalcantara Interior EU-Stock",
-        "DownloadURL": "https://sharemods.com/7j4clhbbqsq4/Basic_EU.zip.html"
-    },
-    {
-        "ImageSource": "https://i.imgur.com/2XEytd6.jpeg",
-        "ModName": "Aalcantara Interior EU-Exclusive",
-        "DownloadURL": "https://sharemods.com/g8i9bcp2qjsp/Exlusive_EU.zip.html"
-    },
-    {
-        "ImageSource": "https://i.imgur.com/lgCLwDt.jpeg",
-        "ModName": "Aalcantara Interior UK-Stock",
-        "DownloadURL": "https://sharemods.com/j3n2mm4wciu0/Basic_UK.zip.html"
+        "ModName": "Aalcantara Interior Stock",
+        "UploaderID": "690641684337393724",
+        "DownloadURL_EU": "https://sharemods.com/7j4clhbbqsq4/Basic_EU.zip.html",
+        "DownloadURL_UK": "https://sharemods.com/j3n2mm4wciu0/Basic_UK.zip.html"
     },
     {
         "ImageSource": "https://i.imgur.com/OuEYow6.jpeg",
-        "ModName": "Aalcantara Interior UK-Exclusive",
-        "DownloadURL": "https://sharemods.com/0zxhpa822zup/Exlusive_UK.zip.html"
+        "ModName": "Aalcantara Interior Exclusive",
+        "UploaderID": "690641684337393724",
+        "DownloadURL_EU": "https://sharemods.com/g8i9bcp2qjsp/Exlusive_EU.zip.html",
+        "DownloadURL_UK": "https://sharemods.com/0zxhpa822zup/Exlusive_UK.zip.html"
     },
     {
         "ImageSource": "https://i.imgur.com/zb3HZbV.jpeg",
@@ -142,13 +136,10 @@
         "DownloadURL": "https://sharemods.com/9zirprfhx56s/man_insx_blue_eu.zip.html"
     },
     {
-        "ImageSource": "https://i.imgur.com/PAC9hcx.jpeg",
-        "ModName": "Alcantara Interior EU",
-        "DownloadURL": "https://sharemods.com/ttm8xxyr2nz9/Alcantaraeu___40_3__41_.zip.html"
-    },
-    {
         "ImageSource": "https://i.imgur.com/qbBonGu.jpeg",
-        "ModName": "Alcantara Interior UK",
+        "ModName": "Alcantara Interior",
+        "UploaderID": "690641684337393724",
+        "DownloadURL_EU": "https://sharemods.com/ttm8xxyr2nz9/Alcantaraeu___40_3__41_.zip.html",
         "DownloadURL_UK": "https://sharemods.com/g1d1782o27wj/Alcantara___40_3__41_.zip.html"
     },
     {
