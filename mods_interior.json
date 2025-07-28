@@ -1,24 +1,32 @@
 [
     {
         "ImageSource": "https://i.imgur.com/T42T16M.png",
-        "ModName": "White Red Interior w White Red Steering Wheel - Scania S",
+        "ModName": "Scania 2016 - White Red Interior w/ Steering Wheel",
         "DownloadURL_UK": "https://modsfire.com/p3232owr2t9gO6g",
-        "DownloadURL_EU": "https://modsfire.com/gxWH1WT15EJXj23"
+        "DownloadURL_EU": "https://modsfire.com/gxWH1WT15EJXj23",
+        "MessageID": "1350199646139453572",
+        "UploaderID": "916681745993191425"
     },
     {
         "ImageSource": "https://i.imgur.com/5KYJzO4.png",
         "ModName": "Scania Vabis Int - No Curtains",
-        "DownloadURL_EU": "https://modsfire.com/U019XHKhIq97C81"
+        "DownloadURL_EU": "https://modsfire.com/U019XHKhIq97C81",
+        "MessageID": "1322518711411675178",
+        "UploaderID": "709439864906448906"
     },
     {
         "ImageSource": "https://i.imgur.com/cF7iDE3.png",
         "ModName": "Scania S 2016 - BlackOut Interior",
-        "DownloadURL_EU": "https://sharemods.com/wrep77bsbflg/ApeCustoms_BlackOut_Interior.zip.html"
+        "DownloadURL_EU": "https://sharemods.com/wrep77bsbflg/ApeCustoms_BlackOut_Interior.zip.html",
+        "MessageID": "1289670942661808262",
+        "UploaderID": "709439864906448906"
     },
     {
         "ImageSource": "https://i.imgur.com/ayzoCYp.png",
-        "ModName": "Man TGX 2020 - Buessing Interior 3spoke + Normal SW",
-        "DownloadURL_EU": "https://sharemods.com/io8o29vkcjey/Man_2020_buessing_interior.zip.html"
+        "ModName": "Man TGX 2020 - Buessing Interior",
+        "DownloadURL_EU": "https://sharemods.com/io8o29vkcjey/Man_2020_buessing_interior.zip.html",
+        "MessageID": "1224078185784934500",
+        "UploaderID": "709439864906448906"
     },
     {
         "ImageSource": "https://i.imgur.com/ilwl7bv.jpeg",
@@ -37,13 +45,13 @@
     {
         "ImageSource": "https://i.imgur.com/Bs34Bra.jpeg",
         "ModName": "MAN TGX E6 - MAN F2000",
+        "DownloadURL_EU": "https://modsfire.com/r9vL1hU91J5c8oF",
         "MessageID": "1198319748862181376",
-        "UploaderID": "403133248403800064",
-        "DownloadURL_EU": "https://modsfire.com/r9vL1hU91J5c8oF"
+        "UploaderID": "403133248403800064"
     },
     {
         "ImageSource": "https://i.imgur.com/YHcqAkU.jpeg",
-        "ModName": "Scania R/S 09 - V8 Interior [Interior + Exterior View]",
+        "ModName": "Scania R/S 09 - V8 Interior w/ Exterior",
         "DownloadURL_EU": "https://sharemods.com/erghsq434yj0/Scania_2009_V8_lowcab_int.zip.html"
     },
     {
