@@ -43,16 +43,23 @@
         "ImageSource": "https://i.imgur.com/2liIqHM.gif",
         "ModName": "S-Way | Animated LED Window Eyes",
         "DownloadURL_UK": "https://modsfire.com/QygM14sD53CMwQI",
-        "DownloadURL_EU": "https://modsfire.com/QygM14sD53CMwQI"
+        "DownloadURL_EU": "https://modsfire.com/QygM14sD53CMwQI",
+        "MessageID": "1332399874720796733",
+        "UploaderID": "291354776044830720"
     },
     {
         "ImageSource": "https://i.imgur.com/P120MKI.png",
         "ModName": "Iveco Hi-Way - Big GPS",
-        "DownloadURL_EU": "https://sharemods.com/s3hlu16dvb4g/Iveco_Big_GPS.zip.html"
+        "DownloadURL_EU": "https://sharemods.com/s3hlu16dvb4g/Iveco_Big_GPS.zip.html",
+        "MessageID": "1332399874720796733",
+        "UploaderID": "291354776044830720"
     },
     {
         "ImageSource": "https://i.imgur.com/yEfs4HR.png",
         "ModName": "Lightbox and Exhaust",
-        "DownloadURL": "https://sharemods.com/i3obh9cgx14y/ivecoext.zip.html"
+        "DownloadURL_UK": "https://sharemods.com/i3obh9cgx14y/ivecoext.zip.html",
+        "DownloadURL_EU": "https://sharemods.com/i3obh9cgx14y/ivecoext.zip.html",
+        "MessageID": "1034219727930798090",
+        "UploaderID": "690641684337393724"
     }
 ]
