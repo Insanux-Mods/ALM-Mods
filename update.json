@@ -7,5 +7,9 @@
   "PrismCacheFix" : [ {
     "version" : "061FE3F2AED2795B206F22058834B194",
     "link" : "https://dl.insanux.com/?mod=zV2cBeQA89ZGsTA"
+  } ],
+  "InteriorRenderPlugin" : [ {
+    "version" : "60B04EEFD54451E9DEF68842D27D380B",
+    "link" : "https://dl.insanux.com/?mod=INVALID"
   } ]
 }
