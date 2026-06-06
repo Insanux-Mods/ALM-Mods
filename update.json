@@ -4,6 +4,10 @@
     "link" : "https://dl.insanux.com/?mod=aB8TpiY84ivcDF1",
     "mapVersion" : "1.57 - Roads Only"
   } ],
+  "ScsUnitTypeCheckBypass" : [ {
+    "version" : "C21DF371DD6AC40B21853D1837758D03",
+    "link" : "https://dl.insanux.com/?mod=UYSPa1ft7d2q65U"
+  } ],
   "PrismCacheFix" : [ {
     "version" : "BC0DA064724B9CA6C96CC1C75E09AA24",
     "link" : "https://dl.insanux.com/?mod=HA3G232r3727QG7"
