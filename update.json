@@ -5,15 +5,38 @@
     "mapVersion" : "1.59/1.60 - Roads Only"
   } ],
   "ScsUnitTypeCheckBypass" : [ {
+    "name" : "Bypass Plugin",
+    "file" : "ScsUnitTypeCheckBypass.dll",
+    "description" : "Lets modified or unexpected unit types work in a save file without the game rejecting them.",
     "version" : "CC50ECFE209EDBD73F5E5B84135CD0E4",
     "link" : "https://dl.insanux.com/?mod=QXHj6U5TQAaEWs1"
   } ],
   "PrismCacheFix" : [ {
+    "name" : "Prism Cache Fix",
+    "file" : "PrismCacheFix.dll",
+    "description" : "Clears the in-game cache when you reload your save or use the game command. Useful for local modding and save editing.",
     "version" : "1DC71DFA8D851BD9B711433F00C90C93",
     "link" : "https://dl.insanux.com/?mod=oCeM5nC4i1V26r5"
   } ],
   "InteriorRenderPlugin" : [ {
+    "name" : "Interior Render Plugin",
+    "file" : "Interior-Render-Handler.dll",
+    "description" : "Hides the original interior and steering wheel while addon hookups keep rendering and animating. Useful for local mods.",
     "version" : "04780EE18A96828092A7E81DF0319756",
     "link" : "https://dl.insanux.com/?mod=02LgnM4nG5Wl75W"
+  } ],
+  "AnimatedSteeringWheel" : [ {
+    "name" : "Animated Steering Wheel",
+    "file" : "Animated-Steering-Wheel.dll",
+    "description" : "Lets the steering wheel move up and down like in a real truck. Works on all vehicles in the game, including modded vehicles.",
+    "version" : "SOON",
+    "link" : "http://dl.insanux.com/?mod=7EbyM5r6QNlna4k"
+  } ],
+  "ScsSDKPopupBypass" : [ {
+    "name" : "SCS SDK Popup Bypass",
+    "file" : "ScsSDKPopupBypass.dll",
+    "description" : "Skips the warning popup about plugins being enabled that shows on every game launch. One less prompt when the game loads.",
+    "version" : "SOON",
+    "link" : "http://dl.insanux.com/?mod=3m7hZyJXVvi58pA"
   } ]
 }
