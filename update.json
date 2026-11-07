@@ -40,5 +40,13 @@
     "image" : "https://img.insanux.com/alm/plugin_ScsSDKPopupBypass.png",
     "version" : "ABA6968C29716F977EF74D9B5458441A",
     "link" : "http://dl.insanux.com/?mod=3m7hZyJXVvi58pA"
+  },
+  "FreezeWipers" : [ {
+    "name" : "Freeze Wipers",
+    "file" : "Freeze Wipers.dll",
+    "description" : "Allows the wipers to stay in position when the engine turns off.",
+    "image" : "https://img.insanux.com/alm/plugin_FreezeWipers.gif",
+    "version" : "",
+    "link" : ""
   } ]
 }
