@@ -29,6 +29,7 @@
     "name" : "Animated Steering Wheel",
     "file" : "Animated-Steering-Wheel.dll",
     "description" : "Lets the steering wheel move up and down like in a real truck. Works on all vehicles in the game, including modded vehicles.",
+    "image" : "https://img.insanux.com/alm/plugin_AnimatedSteeringWheel.gif",
     "version" : "DCFB2C886C6B144D46E6CD3139E7A53A",
     "link" : "http://dl.insanux.com/?mod=7EbyM5r6QNlna4k"
   } ],
@@ -36,6 +37,7 @@
     "name" : "SCS SDK Popup Bypass",
     "file" : "ScsSDKPopupBypass.dll",
     "description" : "Skips the warning popup about plugins being enabled that shows on every game launch. One less prompt when the game loads.",
+    "image" : "https://img.insanux.com/alm/plugin_ScsSDKPopupBypass.png",
     "version" : "ABA6968C29716F977EF74D9B5458441A",
     "link" : "http://dl.insanux.com/?mod=3m7hZyJXVvi58pA"
   } ]
